@@ -1,0 +1,25 @@
+{
+  "Person": [
+    "Donald Trump",
+    "Lin Jian",
+    "ByteDance representatives",
+    "Ministry of Commerce",
+    "Ministry of Foreign Affairs spokesman Lin Jian"
+  ],
+  "Date": [
+    "Wednesday",
+    "Thursday",
+    "Friday",
+    "last week",
+    "2023",
+    "75 days"
+  ],
+  "Location": [
+    "Bangkok",
+    "China",
+    "U.S.",
+    "Beijing",
+    "World Trade Organization",
+    "White House"
+  ]
+}

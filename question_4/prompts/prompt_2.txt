@@ -1,0 +1,14 @@
+You are a data extraction assistant. Extract information from the following passage using this schema:
+
+Schema:
+- Person: Full names of individuals
+- Date: Any specific date or relative time expressions
+- Location: Geographical locations, cities, or organizations acting as locations
+
+Text:
+"{unstructured_text}"
+
+Respond using JSON format:
+Person: [...]
+Date: [...]
+Location: [...]

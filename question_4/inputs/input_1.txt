@@ -1,0 +1,39 @@
+You are an information extraction assistant. Extract the following fields from the given text:
+- Person Name(s)
+- Date(s)
+- Location(s)
+
+Text:
+"BANGKOK (AP) — China again vowed to “fight to the end” Wednesday in an escalating trade war with the U.S. as it announced it would raise tariffs on American goods to 84% from Thursday.
+
+Beijing also added an array of countermeasures after U.S. President Donald Trump raised the total tariff on imports from China to 104%. Beijing said it was launching an additional suit against the U.S. at the World Trade Organization and placed further restrictions on American companies’ trade with Chinese companies.
+
+“If the U.S. insists on further escalating its economic and trade restrictions, China has the firm will and abundant means to take necessary countermeasures and fight to the end,” the Ministry of Commerce wrote in a statement introducing its white paper on trade with the U.S.
+
+The government declined to say whether it would negotiate with the White House, as many other countries have started doing.
+
+On Friday, China announced a 34% tariff on all goods imported from the U.S, export controls on rare earths minerals, and a slew of other measures in response to Trump’s “Liberation Day” tariffs. Trump then added an additional 50% tariff on goods from China, saying negotiations with them were terminated.
+
+Wednesday’s newest measures include adding 11 American companies to a so-called “unreliable entities” list that would bar Chinese companies from selling them dual-use goods. Among the companies are American Photonics, and SYNEXXUS, both of whom work with the American military.
+
+
+So far, China has not appeared interested in bargaining. “If the U.S. truly wants to resolve issues through dialogue and negotiation, it should adopt an attitude of equality, respect and mutual benefit,” said Ministry of Foreign Affairs spokesman Lin Jian Wednesday.
+
+The paper says that the U.S. has not honored the promises it made in the phase 1 trade deal concluded during Trump’s first term. As an example, it said that a U.S. law that would ban TikTok unless it is sold by its Chinese parent company violates a promise that neither would “pressure the other party to transfer technology to its own individuals.”
+
+Trump signed an order to keep TikTok running for another 75 days last week after a potential deal to sell the app to American owners was put on ice. ByteDance representatives called the White House to indicate that China would no longer approve the deal until there could be negotiations about trade and tariffs.
+
+The paper also argued that taking into account trade in services and U.S. companies’ domestic Chinese branches, economic exchange between the two countries is “roughly in balance.”
+
+It says that China had a trade in services deficit with the U.S. of $26.57 billion in 2023, which is composed of industries like insurance, banking and accounting. Trump’s tariffs were designed to close trade deficits with foreign countries, but those were calculated only based on trades in physical, tangible goods.
+
+“History and facts have proven that the United States’ increase in tariffs will not solve its own problems,” said the statement from the Chinese commerce ministry. “Instead, it will trigger sharp fluctuations in financial markets, push up U.S. inflation pressure, weaken the U.S. industrial base and increase the risk of a U.S. economic recession, which will ultimately only backfire on itself.
+
+"
+
+Respond in this JSON format:
+{
+  "names": [...],
+  "dates": [...],
+  "locations": [...]
+}

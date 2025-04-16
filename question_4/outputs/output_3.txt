@@ -1,0 +1,27 @@
+{
+  "names": [
+    "Donald Trump",
+    "Lin Jian",
+    "ByteDance representatives",
+    "Ministry of Commerce",
+    "Ministry of Foreign Affairs spokesman Lin Jian",
+    "American Photonics",
+    "SYNEXXUS"
+  ],
+  "dates": [
+    "Wednesday",
+    "Thursday",
+    "Friday",
+    "last week",
+    "75 days",
+    "2023"
+  ],
+  "locations": [
+    "Bangkok",
+    "China",
+    "U.S.",
+    "Beijing",
+    "World Trade Organization",
+    "White House"
+  ]
+}

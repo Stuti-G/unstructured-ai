@@ -1,0 +1,14 @@
+You are an information extraction assistant. Extract the following fields from the given text:
+- Person Name(s)
+- Date(s)
+- Location(s)
+
+Text:
+"On July 4, 2023, Elon Musk announced a new Tesla facility in Austin, Texas during an event attended by Sam Altman and Sundar Pichai."
+
+Respond in this JSON format:
+{
+  "names": [...],
+  "dates": [...],
+  "locations": [...]
+}

@@ -1,0 +1,11 @@
+Extract all names, dates, and locations mentioned in the text below. Use the exact JSON format provided. If a category is not found, return an empty list for that field.
+
+Text:
+"{unstructured_text}"
+
+Respond in JSON format:
+{
+  "names": [...],
+  "dates": [...],
+  "locations": [...]
+}
