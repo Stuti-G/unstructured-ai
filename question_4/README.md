@@ -1,21 +1,9 @@
-# Question 2: Sentiment Analysis on IMDB Dataset
+# Question 3: Prompt Engineering for Information Extraction
 
-This folder contains solutions for sentiment classification using both:
-- 🔹 Traditional ML approach (TF-IDF + SVM)
-- 🔹 Transformer-based fine-tuned model (BERT)
+This folder demonstrates the use of different prompt engineering strategies for extracting structured information (names, dates, locations) from unstructured text using large language models.
 
 ---
 
-## 📄 Dataset
+## 📂 Folder Structure
 
-The dataset used is the **IMDB Movie Reviews Dataset** (50K reviews with sentiment labels).
-
-To download the dataset, use the following code snippet in Python:
-
-```python
-import kagglehub
-
-# Download latest version
-path = kagglehub.dataset_download("lakshmi25npathi/imdb-dataset-of-50k-movie-reviews")
-
-print("Path to dataset files:", path)
+This folder contains **three subfolders**, each representing a different prompt format used for the same task
