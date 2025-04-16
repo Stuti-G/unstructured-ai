@@ -1,9 +1,8 @@
 # Question 2: Sentiment Analysis on IMDB Dataset
 
 This folder contains solutions for sentiment classification using both:
-🔹 Traditional ML approach (TF-IDF + SVM)
-🔹 Transformer-based fine-tuned model (BERT)
-
+-  Traditional ML approach (TF-IDF + SVM)
+-  Transformer-based fine-tuned model (BERT)
 ---
 
 ## 📄 Dataset
