@@ -13,6 +13,8 @@ The dataset used is the **IMDB Movie Reviews Dataset** (50K reviews with sentime
 To download the dataset, use the following code snippet in Python:
 
 ```python
+!pip install kagglehub
+
 import kagglehub
 
 # Download latest version
